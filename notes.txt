@@ -1,0 +1,5 @@
+Content level and length are reasonable. What is missing is more examples/experiments, particularly some showing speedup as a function of number of cores for various parallel implementations. This addition would help the students to internalized the tools, and also better connect the introductory discussion of speedup with the later discussion of tools.
+
+Also, two unknowns that need to be followed-up on:
+1) Is there any value to using the MATLAB interface to the scheduler (i.e. should I set this up and teach it?)
+2) Is it possible to create workers on remote compute nodes on the SCC to scale up beyond the 16 core limit? If so, is this worth setting up and teaching or is it generally slower due to communications?

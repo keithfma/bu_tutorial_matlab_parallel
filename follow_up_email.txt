@@ -1,0 +1,12 @@
+Hi everyone,
+
+Thanks for coming to the tutorial yesterday. I am writing to point you towards the slides and example from class, and to make sure that you have contact information for me and the Research Computing Services team in case you need some help in the future.
+
+You can find the slides and worked example at the link below. The "MATLAB Parallel Computing Toolbox" materials are the second item in the "High Performance Computing Tutorials" section.
+
+  http://www.bu.edu/tech/support/research/training-consulting/live-tutorials/
+
+Feel free to contact me and the rest of the Research Computing Services team with problems big and small at any time. We are here to help and happy to do it. To reach me directly, you can email keithma@bu.edu or call my office at 617-358-1873. To reach the whole team, you can submit a help request via the web at the link below, or by emailing ithelp@bu.edu.
+
+Best,
+Keith
